@@ -11,6 +11,8 @@ FOR DEVs : Doxygen doc is here -> http://makeitezeeah.esy.es/Jamtaba2/2.0.6/
 ***
 
 ### Tools and dependencies
+
+[![Join the chat at https://gitter.im/teamikl/JamTaba](https://badges.gitter.im/teamikl/JamTaba.svg)](https://gitter.im/teamikl/JamTaba?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 JamTaba is builded using Qt. We are using Qt for many things: Gui, threads, sockets, json, http requests, file handling, etc. At moment Jamtaba is very coupled with Qt. This is a good thing if you like Qt, but can be terrible if you don't like. 
 
 Jamtaba is using some libraries: portaudio, rtmidi, minimp3, libvorbis and libogg. We are distributing pre compiled static libs for some platforms (Windows 32 and 64 bits and Mac OSX 64 bits). The linux port is in the TODO list, but we don't have nothing interesting enough yet.
