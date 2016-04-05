@@ -11,11 +11,8 @@ private slots:
     void measureSeparators_data();
     void measureSeparators();
 
-    void validMeasuresCount();
-    void validMeasuresCount_data();
-
-    void invalidMeasuresCount();
-    void invalidMeasuresCount_data();
+    void measuresCount();
+    void measuresCount_data();
 
     void upperCaseText(); //test some invalid text containing upper case chords letters (issue #263)
     void upperCaseText_data();
